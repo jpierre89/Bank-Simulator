@@ -1,2 +1,2 @@
 #unmark [ath "docs" tp exlude language statistis
-docs/* linguist-documentation=false
+doc/* linguist-documentation=false
