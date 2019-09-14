@@ -9,6 +9,9 @@
 .classpath
 .settings
 
+# JUNIT generated docs
+acctMgr/docs/JUNIT
+
 # Package Files #
 *.jar
 *.war
