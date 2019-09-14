@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"acctMgr.controller"},{"l":"acctMgr.model"},{"l":"acctMgr.test"},{"l":"acctMgr.util"},{"l":"acctMgr.view"},{"l":"All Packages","url":"allpackages-index.html"}]
