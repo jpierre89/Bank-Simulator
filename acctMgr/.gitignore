@@ -10,7 +10,7 @@
 .settings
 
 # JUNIT generated docs
-acctMgr/doc/JUNIT
+acctMgr/doc/JUNIT/*
 
 # Package Files #
 *.jar
