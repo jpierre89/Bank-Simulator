@@ -1,2 +1,2 @@
 # Bank-Simulator
-Java, MVC, Concurrency
+Bank Simulator project using Java, MVC style architecture, Concurrency.
