@@ -5,8 +5,9 @@
 *.log
 
 # Eclipse
-*.project
-*.classpath
+.project
+.classpath
+.settings
 
 # Package Files #
 *.jar
