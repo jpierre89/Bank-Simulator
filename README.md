@@ -1,5 +1,4 @@
 # Bank-Simulator
-Bank Simulator project using Java, MVC style architecture, Concurrency.
 
 ## General info
 > Welcome. I'm a student at Texas State University and this desktop app simulates a bank via concurrent account transactions with different denominations. It was created as my project for Object Oriented Design and programming course.
